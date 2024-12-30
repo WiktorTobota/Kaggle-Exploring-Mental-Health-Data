@@ -1,4 +1,4 @@
-# Rozwiązanie konkursu Kaggle: Exploring-Mental-Health-Data
+# Kaggle: Exploring-Mental-Health-Data
 
 ## Opis projektu
 To repozytorium zawiera moje rozwiązanie konkursu organizowanego przez Kaggle. Celem konkursu jest przewidzenie zmiennej `Depression` (wartości binarnej: 0 lub 1).
